@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YASHAMWAN
-- 👀 I’m interested in Coding
+- 👀 I’m a Data Professional and a Product Manager
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me wani.yasu@gmail.com
